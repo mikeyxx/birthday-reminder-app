@@ -30,6 +30,7 @@ body {
   background: var(--clr-pink);
   line-height: 1.5;
   color: var(--clr-grey-9);
+  overflow-x: hidden;
 }
 
 h1,
