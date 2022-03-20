@@ -47,6 +47,13 @@ h3 {
   overflow-x: hidden;
 }
 
+@media (max-width: 600px) {
+  .App {
+    min-width: 10em;
+    overflow-x: hidden;
+  }
+}
+
 /* .wrap {
   display: grid;
   place-content: center;
